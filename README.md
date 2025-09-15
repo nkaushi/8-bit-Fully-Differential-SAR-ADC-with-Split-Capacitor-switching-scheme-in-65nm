@@ -1,0 +1,1 @@
+# 8-bit-Fully-Differential-Split-Capacitor-SAR-ADC-in-65nm
